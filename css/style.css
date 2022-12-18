@@ -447,6 +447,7 @@ nav.active {
 
 .works .content .item {
   display: flex;
+  box-shadow:var(--box-shadow);
   flex-direction: column;
   flex: 1 1 25rem;
   justify-content: center;
